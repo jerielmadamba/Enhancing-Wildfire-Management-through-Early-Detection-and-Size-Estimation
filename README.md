@@ -1,2 +1,3 @@
 # Centennial-College-Capstone
-This capstone project, completed at Centennial College in Toronto, Ontario, it focuses on predicting the size of wildfires in Alberta province while exploring various aspects of fire behaviour. This study provides critical insights for Alberta's attempts to manage and prevent wildfires by building precise prediction models.
+
+This project is a significant project I completed for my capstone project in business analytics and insights at Centennial College, Toronto, ON. This study's main focus is on predicting the potential size of wildfires in the Alberta province. This comprehensive study explores different aspects of wildfire behaviour with the goal of creating prediction models that can precisely anticipate the size of fires, providing crucial information for the management and prevention of wildfires in the Alberta area.
